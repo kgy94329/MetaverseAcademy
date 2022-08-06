@@ -1,3 +1,8 @@
+# Welcome to MetaverseAcademy
+
+제가 공부하면서 개인적으로 정리한 자료들을 저장한 리포지토리입니다.  
+카테고리별 파일을 저장하였으며 아래의 링크를 통해 확인해 볼 수 있습니다.  
+
 # Basic Concept
 ## Data Preprocessing
 [Data Normalization](https://github.com/kgy94329/MetaverseAcademy/blob/main/%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90/Data%20Preprocessing/Normalization.ipynb)
