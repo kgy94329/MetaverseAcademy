@@ -1,6 +1,6 @@
 # Basic Concept
 ## Data Preprocessing
-[Data Normalizati(https://github.com/kgy94329/MetaverseAcademy/blob/main/%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90/Data%20Preprocessing/Normalization.ipynb)
+[Data Normalization](https://github.com/kgy94329/MetaverseAcademy/blob/main/%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90/Data%20Preprocessing/Normalization.ipynb)
 
 ## DeepLearning - Basic
 
