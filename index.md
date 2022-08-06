@@ -1,16 +1,16 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kgy94329/MetaverseAcademy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 # Basic Concept
 ## Data Preprocessing
 [Data Normalizati(https://github.com/kgy94329/MetaverseAcademy/blob/main/%EA%B8%B0%EB%B3%B8%20%EA%B0%9C%EB%85%90/Data%20Preprocessing/Normalization.ipynb)
 
 ## DeepLearning - Basic
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/kgy94329/MetaverseAcademy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
